@@ -9,7 +9,7 @@ on:
         description: '天选时刻'
         required: true
       count:
-        description: -1
+        description: 200
         required: true
 
 env:

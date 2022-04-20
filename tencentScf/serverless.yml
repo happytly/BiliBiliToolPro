@@ -40,4 +40,4 @@ inputs:
           argument: UnfollowBatched
   environment:
     variables: # 根据自己的需要修改
-      Ray_BiliBiliCookies__1: buvid3=DBCA99CF-2EB7-4831-8EA6-A2E0A50362CB155834infoc; rpdid=|(k|k)J~RkkY0J'ulm|k||~)u; blackside_state=1; LIVE_BUVID=AUTO5216103796199504; fingerprint_s=7123fe5f51c0ea0c8b9248805d505beb; CURRENT_QUALITY=80; video_page_version=v_old_home_18; _uuid=14E10310105-6A10D-2219-3D4C-591335818611090156infoc; i-wanna-go-back=-1; b_ut=5; buvid4=CF286E2A-2513-D409-673D-4581C86849A352460-022012723-c8mC4VtaIp/3sDhjmDtdvA==; buvid_fp_plain=undefined; SESSDATA=e614b6b9,1658850089,fe9a8*11; bili_jct=b8b4a7507895870035d120361f8fc5ad; DedeUserID=348719595; DedeUserID__ckMd5=536aa005548b00ff; sid=btyvg2pv; buvid_fp=6af939f10cd42335e79bffd1aa7cf248; CURRENT_BLACKGAP=0; nostalgia_conf=-1; fingerprint3=378f3f80a37af24fb02583d634d6ab87; bp_t_offset_348719595=647884894577360936; PVID=1; fingerprint=16333cbad4133e77eb7aa0840d81b67c; bp_video_offset_348719595=651208125712433270; hit-dyn-v2=1; b_lsid=3D79E425_18047644AB8; CURRENT_FNVAL=80; innersign=0 # cookie，必填
+      Ray_BiliBiliCookies__1: 123 # cookie，必填

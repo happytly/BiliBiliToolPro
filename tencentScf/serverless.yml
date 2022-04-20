@@ -35,7 +35,7 @@ inputs:
     - timer: # 自动取关
         parameters:
           name: UnfollowBatchedTask
-          cronExpression: "0 0 0 * * MON *"
+          cronExpression: "0 36 22 * * * *"
           enable: true
           argument: UnfollowBatched
   environment:
